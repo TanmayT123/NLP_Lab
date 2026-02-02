@@ -1,0 +1,4 @@
+text,label,cleaned_text,label_encoded
+NLTK is a powerful NLP library!,library,nltk powerful nlp library,0
+Text cleaning is an important step in NLP.,process,text cleaning important step nlp,1
+TF-IDF and Word2Vec are widely used techniques.,technique,tfidf wordvec widely used technique,2
